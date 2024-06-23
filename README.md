@@ -16,6 +16,6 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Drink-collection)
-Goal - I want contributors to help me list some favorite drink.
+Goal - I want contributors to help me list some favorite YouTube channels.
 
 # List of Drink
