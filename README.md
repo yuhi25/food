@@ -18,4 +18,4 @@ To complete the assignment, please do the following:
 # My Project (YouTube-collection)
 Goal - I want contributors to help me list some favorite YouTube channels.
 
-# List of Drink
+# List of YouTube channels
