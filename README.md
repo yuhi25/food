@@ -19,3 +19,4 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite YouTube channels.
 
 # List of YouTube channels
+- [Caitlin Doughty](https://www.youtube.com/@AskAMortician)
