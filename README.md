@@ -22,3 +22,4 @@ Goal - I want contributors to help me list some interesting technical books or s
 1. C. M. Bishop, Pattern Recognition and Machine Learning
 2. Ian Goodfellow, Yoshua Bengio, Aaron Courville, Deep Learning
 3.  Andreas M. Antonopoulos, Gavin Wood, Mastering Ethereum
+4.  羽根一博、光工学
