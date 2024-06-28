@@ -21,5 +21,8 @@ To complete the assignment, please do the following:
 4. Click on commit changes
 5. Click on pull request 
 
+# My Project (drink-collection)
+Goal - I want contributors to help me list some favorite drinks.
+
 # List of drinks
 1. Coffee
