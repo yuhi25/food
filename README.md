@@ -2,7 +2,6 @@
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
-
 1. Please choose a hobby or some interest that you want to build your repository
 2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
@@ -15,9 +14,12 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (thinking..)
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+#How to contribete
+1. Click on edit (from pen icon)
+2. Scroll down to "List of drinks"
+3. Add your favorite drinks
+4. Click on commit changes
+5. Click on pull request 
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of drinks
+1. Coffee
