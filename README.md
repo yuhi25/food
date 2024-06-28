@@ -20,6 +20,6 @@ Goal - I want contributors to help me list some favorite YouTube channels.
 
 # List of YouTube channels
 [Caitlin Doughty](https://www.youtube.com/@AskAMortician)
-Michael Angelo
-JARUJARU ISLAND
-3ildcat
+Michael Angelo</br>
+JARUJARU ISLAND</br>
+3ildcat</br>
