@@ -1,4 +1,4 @@
-### Where would you like to trip in Japan?
+# Where would you like to trip in Japan?
 Please share places in Japan you like or would like to trip!
 
 Example. Nara
