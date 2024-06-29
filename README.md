@@ -16,6 +16,17 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Trip in Japan)
-Please write places in Japan you like or would like to trip
+Please write places in Japan you like or would like to trip!
+Example. Nara
 
 # List of Place in Japan
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
