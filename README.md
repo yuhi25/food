@@ -26,4 +26,5 @@ Goal - I want contributors to help me list some favorite drinks.
 
 # List of drinks
 1. Coffee
-2. Coke
+2. Chicha morada (peruvian)
+3. Coke
