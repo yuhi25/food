@@ -18,4 +18,4 @@ To complete the assignment, please do the following:
 # My Project (Trip in Japan)
 Please write places in Japan you like or would like to trip
 
-# List of Hobby
+# List of Place in Japan
