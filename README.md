@@ -17,6 +17,7 @@ To complete the assignment, please do the following:
 
 # My Project (Trip in Japan)
 Please write places in Japan you like or would like to trip!
+
 Example. Nara
 
 # List of Place in Japan
