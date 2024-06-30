@@ -27,3 +27,4 @@ Goal - I want contributors to help me list some interesting technical books or s
 6.  The Alchemist by Paulo Coelho
 7. Charles Petzold, Code: The Hidden Language of Computer Hardware and Software
 8.  Monolith to Microservices , O'Reilly 
+9.  Game of Thrones
