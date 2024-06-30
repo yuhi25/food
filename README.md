@@ -20,3 +20,4 @@ Goal - I want contributors to help me list your MBTI type.
 
 # List of MBTI
 ENTJ
+INTJ
