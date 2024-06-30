@@ -1,5 +1,6 @@
 # Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+You can choose a type that best matches you from here:
+https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E3%82%BF%E3%82%A4%E3%83%97
 
 # Rules
 
