@@ -19,6 +19,7 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list your MBTI type.
 
 # List of MBTI
-ENTJ
-INTJ
-INFJ
+1. ENTJ
+2. INTJ
+3. INFJ
+4. 
