@@ -22,4 +22,4 @@ Goal - I want contributors to help me list your MBTI type.
 1. ENTJ
 2. INTJ
 3. INFJ
-4. 
+4. INFP
