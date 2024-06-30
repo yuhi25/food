@@ -1,10 +1,11 @@
 # Attracting Contributors
 1. The MBTI is based on the influential theory of psychological types proposed by Swiss psychiatrist Carl Jung in 1921, which was partially based on the four elements of classical cosmology. Jung speculated that people experience the world using four principal psychological functions—sensation, intuition, feeling, and thinking—and that one of these four functions is dominant in an individual, a majority of the time.
 2. In MBTI theory, the four categories are introversion/extraversion, sensing/intuition, thinking/feeling, and judging/perceiving. According to the MBTI, each person is said to have one preferred quality from each category, producing 16 unique types.
-3. You can choose a type that best matches you from here:
-4. https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E3%82%BF%E3%82%A4%E3%83%97
-5. Or click here to take the test：
-6.  https://www.16personalities.com/
+3. Want to know what type you are? Find out if you're interested!
+4. You can choose a type that best matches you from here:
+5. https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E3%82%BF%E3%82%A4%E3%83%97
+6. Or click here to take the test：
+7.  https://www.16personalities.com/
 
 # Rules
 
