@@ -25,10 +25,14 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list your MBTI type.
 
 # List of MBTI
-1. ENTJ
-2. INTJ
-3. INFJ
-4. INFP
-5. ENFJ
-6. ESFJ
-7. ENFJ
+1. You can choose a type that best matches you from here:
+2. https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E3%82%BF%E3%82%A4%E3%83%97
+3. Or click here to take the test：
+4. https://www.16personalities.com/
+5. ENTJ
+6. INTJ
+7. INFJ
+8. INFP
+9. ENFJ
+10. ESFJ
+11. ENFJ
