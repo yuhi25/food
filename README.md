@@ -41,7 +41,9 @@ Goal - I want contributors to help me list your MBTI type.
 | ENFJ  | ()   |
 | ESFJ  | ()   |
 | ENFJ  | ()   |
-| ❤️   | ()   |
-| ❤️   | ()   |
-| ❤️   | ()   |
-| ❤️   | ()   |
+| 7   | ()   |
+| 8   | ()   |
+| 9   | ()   |
+| 10   | ()   |
+| 11   | ()   |
+| 12   | ()   |
