@@ -1,8 +1,8 @@
 # Attracting Contributors
-You can choose a type that best matches you from here:
-https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E3%82%BF%E3%82%A4%E3%83%97
-Or click here to take the test：
-https://www.16personalities.com/
+1. You can choose a type that best matches you from here:
+2. https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E3%82%BF%E3%82%A4%E3%83%97
+3. Or click here to take the test：
+4. https://www.16personalities.com/
 
 # Rules
 
