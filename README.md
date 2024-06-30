@@ -30,11 +30,18 @@ Goal - I want contributors to help me list your MBTI type.
 3. Or click here to take the test：
 4. https://www.16personalities.com/
 5. Please tell me your MBTI type（You can add one of your hobbies if you like!
-6. Thank you very much❤️、
-7. ENTJ  hobby：ikebana（flower arrangement）
-8. INTJ
-9. INFJ
-10. INFP
-11. ENFJ
-12. ESFJ
-13. ENFJ
+6. Thank you very much❤️
+
+| MBTI | Hobby |
+|:-------:|:-------:|
+| ENTJ   | ikebana（flower arrangement）   |
+| INTJ   | ()   |
+| INFJ   | ()   |
+| INFP   | ()   |
+| ENFJ  | ()   |
+| ESFJ  | ()   |
+| ENFJ  | ()   |
+| ❤️   | ()   |
+| ❤️   | ()   |
+| ❤️   | ()   |
+| ❤️   | ()   |
