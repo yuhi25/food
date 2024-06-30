@@ -3,7 +3,7 @@ Please share places in Japan you like or would like to trip!
 
 # List of Place in Japan
 1.
-2.
+2.Kobe
 3.
 4.
 5.
