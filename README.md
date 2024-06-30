@@ -5,7 +5,7 @@ Please share places in Japan you like or would like to trip!
 1. Akihabara
 2. Kobe
 3. Kiyomizudera temple
-4.
+4. Kyoto
 5.
 6.
 7.
