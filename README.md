@@ -23,4 +23,5 @@ Goal - I want contributors to help me list some interesting technical books or s
 2. Ian Goodfellow, Yoshua Bengio, Aaron Courville, Deep Learning
 3.  Andreas M. Antonopoulos, Gavin Wood, Mastering Ethereum
 4.  羽根一博、光工学
-5.  The Alchemist by Paulo Coelho
+5. 光学入門 / 青木 貞雄
+6.  The Alchemist by Paulo Coelho
