@@ -2,7 +2,7 @@
 Please share places in Japan you like or would like to trip!
 
 # List of Place in Japan
-1.
+1. Kiyomizudera temple
 2.
 3.
 4.
