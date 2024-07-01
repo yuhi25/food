@@ -36,7 +36,7 @@ Goal - I want contributors to help me list your MBTI type.
 |:-------:|:-------:|
 | ENTJ   | ikebana（flower arrangement）   |
 | INTJ   | ()   |
-| INFJ   | ()   |
+| INFJ   | Reading  |
 | INFP   | ()   |
 | ENFJ  | ()   |
 | ESFJ  | ()   |
