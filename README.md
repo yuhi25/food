@@ -8,7 +8,7 @@ Please share places in Japan you like or would like to trip!
 4. Kyoto
 5. Hokkaido
 6. Tottori
-7.
+7. Nagano
 8.
 9.
 10.
