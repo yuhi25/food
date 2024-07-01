@@ -42,7 +42,7 @@ Goal - I want contributors to help me list your MBTI type.
 | ESFJ  | ()   |
 | ENFJ  | ()   |
 | ISTP   | Watching anime   |
-| 8   | ()   |
+| ESTJ   | ()   |
 | 9   | ()   |
 | 10   | ()   |
 | 11   | ()   |
