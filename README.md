@@ -30,3 +30,4 @@ Goal - I want contributors to help me list some interesting technical books or s
 9.  Game of Thrones
 10.  Deep Learning with PyTorch
 11.  Introduction to Linear Algebra
+12.  seigyokougaku / Osami Saito
