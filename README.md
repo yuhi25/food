@@ -22,7 +22,8 @@ To complete the assignment, please do the following:
 5. Click on pull request 
 
 # My Project (drink-collection)
-Goal - I want contributors to help me list some favorite drinks.
+Goal - I want contributors to help me list some favorite drinks.</br>
+(my discussion: https://github.com/NAIST-SE/AttractingContributors/discussions/1158#discussion-6874125)
 
 # List of drinks
 1. Coffee
@@ -35,3 +36,7 @@ Goal - I want contributors to help me list some favorite drinks.
 8. Orange　Juice
 9. Milk
 10. AQUARIUS
+11. Black tea
+12. Wine
+13. hot chai
+14. Ginger Ale
