@@ -26,3 +26,4 @@ JARUJARU ISLAND</br>
 Hikakin</br>
 parako</br>
 Nikuhack</br>
+Beast
