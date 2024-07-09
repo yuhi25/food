@@ -5,7 +5,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 Goal - I want contributors to help me list some favorite Pokémon.
 
 # List of Pokémon
-1. 
+1. Greninja
 2. 
 3. 
 4. 
