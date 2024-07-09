@@ -7,7 +7,7 @@ Goal - I want contributors to help me list some favorite Pokémon.
 # List of Pokémon
 1. Greninja
 2. Rotom
-3. 
+3. Nyahoja (Sprigatito, #0906)
 4. 
 5. 
 6. 
